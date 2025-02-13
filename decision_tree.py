@@ -1,7 +1,10 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Sophia Arce
 # FILENAME: decision_tree.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This program reads the contact_lens.csv file and builds a decision tree using entropy.
+#               The decision tree is created to help classify whether a
+#               person should be recommended contact lenses based on their
+#               Age, Spectacle Prescription, Astigmatism, and Tear Production Rate.
 # FOR: CS 4210- Assignment #1
 # TIME SPENT: 5 hours
 #-----------------------------------------------------------*/
